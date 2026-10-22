@@ -85,8 +85,8 @@ res/
 ## References
 
 Built studying and referencing:
-- [malk](https://github.com/figueiredo-lucas/malk) — C++ BYOVD kernel manipulation toolkit
-- [KernelForge (kforge)](https://github.com/figueiredo-lucas/kforge) — Rust SSDT hijack with anti-cheat protections, ROP pooling, runtime encryption
+- [malk](https://github.com/worawit/malk) by worawit — kernel function calling and process creation callback handling against HVCI
+- [KernelForge](https://github.com/Cr4sh/KernelForge) by Cr4sh — library for calling arbitrary kernel functions in post-HVCI era via ROP thread hijacking
 
 ## Disclaimer
 
